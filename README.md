@@ -15,4 +15,4 @@ Portfolio including previous projects
 
 ## Deployment
 
-Live Preview: [Here](https://portfolio2-0.onrender.com)
+Live Preview: [Here](https://movie-app-0ys6.onrender.com/)
